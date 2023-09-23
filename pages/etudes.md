@@ -16,12 +16,11 @@ permalink: /etudes
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-file"></i></div>
-      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified.pdf" download>pdf</a></p>
+      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 11 _Arpeggio___Guitar_ - Simplified.pdf" download>pdf</a></p>
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-regular fa-image"></i></div>
-      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified_page-1.jpg" target="_blank">png - pg.1</a></p>
-      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified_page-2.jpg" target="_blank">png - pg.2</a></p>
+      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 11 _Arpeggio___Guitar_ - Simplified.jpg" target="_blank">jpg</a></p>
    </div>
 </div>
 
@@ -38,8 +37,8 @@ permalink: /etudes
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-regular fa-image"></i></div>
-      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified_page-1.jpg" target="_blank">png - pg.1</a></p>
-      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified_page-2.jpg" target="_blank">png - pg.2</a></p>
+      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified_page-1.jpg" target="_blank">jpg - pg.1</a></p>
+      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified_page-2.jpg" target="_blank">jpg - pg.2</a></p>
    </div>
 </div>
 
