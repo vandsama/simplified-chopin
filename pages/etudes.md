@@ -15,7 +15,7 @@ permalink: /etudes
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-file"></i></div>
-      <p><a class="rainbow-text" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified.pdf" download>pdf</a></p>
+      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified.pdf" download>pdf</a></p>
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-regular fa-image"></i></div>
