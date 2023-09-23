@@ -20,6 +20,10 @@
 //   padding-top: $header-thickness + 16px;
 // }
 
+container{
+    margin-right: 50px;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -28,8 +32,8 @@
 
 body{
     margin: 5px;
-    margin-right: 50px;
 }
+
 
 /* Responsive Design */
 @media (max-width: $container-width) {
