@@ -15,10 +15,10 @@ permalink: /nocturnes
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-file"></i></div>
-      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 11 _Arpeggio___Guitar_ - Simplified.pdf" download>pdf</a></p>
+      <p><a class="rainbow-underline" href="./assets/Nocturne Op. 9 No. 2 - Simplified.pdf" download>pdf</a></p>
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-regular fa-image"></i></div>
-      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 11 _Arpeggio___Guitar_ - Simplified.jpg" target="_blank">jpg</a></p>
+      <p><a class="rainbow-underline" href="./assets/Nocturne Op. 9 No. 2 - Simplified.jpg" target="_blank">jpg</a></p>
    </div>
 </div>
