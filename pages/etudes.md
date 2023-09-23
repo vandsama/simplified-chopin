@@ -19,7 +19,7 @@ permalink: /etudes
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-regular fa-image"></i></div>
-      <p><a class="rainbow-underline" href="./assets/1695497268559-1e7abf0b-b003-45a1-8f9c-0d6bb3ce74a6_1.jpg" target="_blank">png - pg.1</a></p>
-      <p><a class="rainbow-underline" href="./assets/1695497268559-1e7abf0b-b003-45a1-8f9c-0d6bb3ce74a6_2.jpg" target="_blank">png - pg.2</a></p>
+      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified_page-1.jpg" target="_blank">png - pg.1</a></p>
+      <p><a class="rainbow-underline" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified_page-1.jpg" target="_blank">png - pg.2</a></p>
    </div>
 </div>
