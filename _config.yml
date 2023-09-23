@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Samantha Vanderburgh's Webpage"
-description:	       "a personal page using Jekyll theme and GitHub Pages to showcase technical skills"
+title:		           "Simplified Chopin"
+description:	       "Providing free abridged works for piano by Chopin"
 author:              "Samantha Vanderburgh"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
