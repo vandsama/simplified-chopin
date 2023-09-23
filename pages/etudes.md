@@ -24,6 +24,7 @@ permalink: /etudes
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
-      <p><a class="rainbow-underline" href="https://www.noteflight.com/music/titles/4ed81cb3-1bd0-4eb9-b491-58e6130d548f/etude-op-10-no-12-revolutionary-simplified" target="_blank">png</a></p>
+      <p><a class="rainbow-underline" href="./assets/1695497268559-1e7abf0b-b003-45a1-8f9c-0d6bb3ce74a6_1.jpg" target="_blank">png - pg.1</a></p>
+      <p><a class="rainbow-underline" href="./assets/1695497268559-1e7abf0b-b003-45a1-8f9c-0d6bb3ce74a6_2.jpg" target="_blank">png - pg.2</a></p>
    </div>
 </div>
