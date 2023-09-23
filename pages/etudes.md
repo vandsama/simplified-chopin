@@ -12,7 +12,6 @@ permalink: /etudes
 <p>png</p>
 <p>pdf</p>
 
-
 <h2>Étude Op. 10 No. 12 "Revolutionary" - Simplified</h2>
 <div class="experience-wrapper">
    <div class="experience-row">
@@ -21,7 +20,7 @@ permalink: /etudes
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-solid fa-location-pin"></i></div>
-      <p><a class="rainbow-underline" href="https://www.noteflight.com/music/titles/4ed81cb3-1bd0-4eb9-b491-58e6130d548f/etude-op-10-no-12-revolutionary-simplified" target="_blank">pdf</a></p>
+      <p><a class="rainbow-text" href="./assets/Étude Op. 10 No. 12 _Revolutionary_ - Simplified.pdf" download>pdf</a></p>
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-regular fa-calendar-days"></i></div>
