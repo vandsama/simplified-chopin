@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <h2>Impromptus</h2>
-permalink: <h2>impromptus</h2>
+title: Impromptus
+permalink: /impromptus
 ---
 
 <h2>Impromptus</h2>
