@@ -19,7 +19,7 @@ permalink: /preludes
    </div>
    <div class="experience-row">
       <div class="icon-wrapper"><i class="fa-regular fa-image"></i></div>
-      <p><a class="rainbow-underline" href="./assets/Prelude Op. 28 No. 4 _Funeral March_- Simplified_page-1.jpg" target="_blank">jpg</a></p>
-      <p><a class="rainbow-underline" href="./assets/Prelude Op. 28 No. 4 _Funeral March_- Simplified_page-2.jpg" target="_blank">jpg</a></p>
+      <p><a class="rainbow-underline" href="./assets/Prelude Op. 28 No. 4 _Funeral March_- Simplified_page-1.jpg" target="_blank">jpg_pg.1</a></p>
+      <p><a class="rainbow-underline" href="./assets/Prelude Op. 28 No. 4 _Funeral March_- Simplified_page-2.jpg" target="_blank">jpg_pg.2</a></p>
    </div>
 </div>
